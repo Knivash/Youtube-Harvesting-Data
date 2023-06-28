@@ -153,10 +153,10 @@
    
    
    
-![Youtube Data Modelling](https://github.com/Knivash/Youtube-Harvesting-Data/assets/136495926/283d4d6d-2301-4796-aa2f-1d457a21e4f0)
+![Youtube Data Modelling](https://github.com/Knivash/Youtube-Harvesting-Data/assets/136495926/92300366-e449-43b6-bd67-c67b2e69878e)
+
 
   
-
 
 4.__Querying From Mysql DataBase:__
 
